@@ -1,0 +1,15 @@
+
+#ifndef INV_IMU_WHOAMI
+#define INV_IMU_WHOAMI 0xD3
+#endif
+
+#ifndef SENSOR_DATA_TYPE
+#define SENSOR_DATA_TYPE int16_t
+#endif
+
+#ifndef FORMAT_SENSOR_DATA
+#define FORMAT_SENSOR_DATA FORMAT_16BIT_REG_DATA
+#endif
+
+#define CUSTOMER_EXAMPLE
+
